@@ -1,2 +1,3 @@
 # FreeFire
-Config files for my GitHub profile.
+https://new-ff-reword-garena.github.io/FreeFire/
+
